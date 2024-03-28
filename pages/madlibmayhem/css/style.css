@@ -1,0 +1,45 @@
+body{
+    background-image: url(../images/background/library.jpg);
+    color: rgb(255, 174, 0);
+    text-align: center;
+    border: 20px double orange;
+    border-radius: 80px;
+    
+}
+
+
+
+
+
+.IntroPart .iconlogo{
+    height: 50px;
+    width: 50px;
+}
+
+<!--
+
+.containerer{
+    display: inline-grid;
+  grid-template: 50px /
+                 110px 100px 40px 110px 100px;
+  color: red;
+  
+  
+  
+}
+input::placeholder {
+  font-weight:lighter;
+  opacity: 0.5;
+  color: red;
+  font-style: italic;
+}
+
+
+
+.container input, .container label{
+    text-align: center;
+}
+
+
+
+
